@@ -1,5 +1,5 @@
 # Wordlister
-A passive tool to make a custom wordlist from path of URLs. **It seprates words when sees an upper char**.
+A passive tool to make a custom wordlist from path of URLs and parameter name from query. **It seprates words when sees an upper char**.
 
 
 ## Usage
